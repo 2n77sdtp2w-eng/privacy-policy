@@ -25,4 +25,4 @@ DeepSeek：https://cdn.deepseek.com/policies/zh-CN/deepseek-privacy-policy.html;
 
 5. 数据存储与删除
 
-说明所有本地数据保存在 %LocalAppData%\DeepSeekChatClient\，你可以通过删除该文件夹或使用应用内的删除功能来清除数据。
+说明所有本地数据保存在 %LocalAppData%\蓝海豚AI助手\，你可以通过删除该文件夹或使用应用内的删除功能来清除数据。
