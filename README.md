@@ -21,7 +21,9 @@ DeepSeek API Key：你配置的密钥仅存储在本地 %LocalAppData% 目录，
 3. 第三方服务说明
  列出 DeepSeek API 和搜索 API 的隐私政策链接，说明数据由这些第三方服务处理。
 DeepSeek：https://cdn.deepseek.com/policies/zh-CN/deepseek-privacy-policy.html;
-博查搜索：https://open.bochaai.com/privacy-policy
+博查搜索：https://open.bochaai.com/privacy-policy；
+火山方舟：https://docs.volcengine.com/docs/Legalagreements/VolcanoEnginesPrivacyPolicy?_vtm_=a106466.b106468.0_0.0_0.0.148_7691658676159530532&lang=zh；
+Tavily：https://www.tavily.com/privacy。
 
 5. 数据存储与删除
 
